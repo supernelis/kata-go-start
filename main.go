@@ -6,6 +6,6 @@ func main() {
 	fmt.Println("Hello Socrates")
 }
 
-func FizzBuzz(n int) string  {
+func FizzBuzz(n int) string {
 	return "1"
 }

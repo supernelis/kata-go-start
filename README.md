@@ -9,6 +9,9 @@ Running:
 
 ```bash
     go run main.go
+
+    go fmt ./
+    go test ./
 ```
 
 
