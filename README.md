@@ -1,11 +1,24 @@
 # kata-go-start
 
-Prerequisites:
+## Prerequisites
 
-* Go is installed
-* Your go path is set correctly
+* Go is installed, the version is above 1.11
+* You have an editor for go installed. Adived:
+  * Goland ()
+  * Visual Studio code () with plugins ()
+  * Your favorite editor with a plugin
 
-Running:
+### Check your go installation
+
+Some commands that can help you get to the correct version:
+
+```bash
+go version # See the current go version
+brew install go # to install
+brew upgrade go # to update to a newer version
+```
+
+## Running
 
 ```bash
     go run main.go
@@ -17,3 +30,5 @@ Running:
 Explanations:
 
 * Test functions need to be prefixed with "Test"
+
+
