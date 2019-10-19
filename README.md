@@ -3,10 +3,11 @@
 ## Prerequisites
 
 * Go is installed (I used version 1.13)
-* You have an editor for go installed. Adived:
-  * Goland ()
-  * Visual Studio code () with plugins ()
-  * Your favorite editor with a plugin
+* You have an editor for go installed. Some ideas:
+  * [Goland](https://www.jetbrains.com/go/).
+  * [IntelliJ Ultimate](https://www.jetbrains.com/idea/) with the Go plugin.
+  * [Visual Studio code](https://code.visualstudio.com/) with plugins [Microsft Go plugin](https://github.com/Microsoft/vscode-go).
+  * Your favorite editor with a plugin.
 
 ### Check your go installation
 
