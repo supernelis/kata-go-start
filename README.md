@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-* Go is installed, the version is above 1.11
+* Go is installed (I used version 1.13)
 * You have an editor for go installed. Adived:
   * Goland ()
   * Visual Studio code () with plugins ()
