@@ -1,20 +1,11 @@
 package main
 
-import "testing"
+import (
+	"testing"
 
-func TestFizzBuzz(t *testing.T) {
-	cases := []struct {
-		in   int
-		want string
-	}{
-		{1, "1"},
-	}
+	"github.com/stretchr/testify/assert"
+)
 
-	for _, c := range cases {
-		got := FizzBuzz(c.in)
-
-		if got != c.want {
-			t.Errorf("want %s, but got %s", c.want, got)
-		}
-	}
+func TestFailing(t *testing.T) {
+	assert.Equal(t, 1, 2, "we are really testing this test, so should fail")
 }
