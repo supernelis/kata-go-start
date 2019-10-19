@@ -27,8 +27,7 @@ brew upgrade go # to update to a newer version
     go test ./
 ```
 
-Explanations:
+## Some tips
 
 * Test functions need to be prefixed with "Test"
-
-
+* More about the assertions used <https://github.com/stretchr/testify>
