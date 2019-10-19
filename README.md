@@ -1,9 +1,9 @@
 # kata-go-start
 
 Prerequisites:
+
 * Go is installed
-
-
+* Your go path is set correctly
 
 Running:
 
@@ -14,7 +14,6 @@ Running:
     go test ./
 ```
 
-
 Explanations:
-* Test functions need to be prefixed with "Test"
 
+* Test functions need to be prefixed with "Test"
