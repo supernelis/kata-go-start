@@ -21,10 +21,10 @@ brew upgrade go # to update to a newer version
 ## Running
 
 ```bash
-    go run main.go
+go run main.go
 
-    go fmt ./
-    go test ./
+go fmt ./
+go test ./
 ```
 
 ## Some tips
